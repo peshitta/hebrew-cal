@@ -8,7 +8,7 @@ const isDev = process.env.BUILD === 'dev';
 const banner = isProduction
   ? '/**\n' +
     '* @file Convert Hebrew Ashuri to CAL code\n' +
-    '* @version 1.0.0\n' +
+    '* @version 1.0.1\n' +
     '* @author Greg Borota\n' +
     '* @copyright (c) 2017 Greg Borota.\n' +
     '* @license MIT\n' +
@@ -42,8 +42,8 @@ const name = 'hebrewCal';
 const format = 'umd';
 const globals = {
   'aramaic-mapper': 'aramaicMapper',
-  'hebrew-code-util': 'hebrewCodeUtil',
-  'cal-code-util': 'calCodeUtil'
+  'cal-code-util': 'calCodeUtil',
+  'hebrew-code-util': 'hebrewCodeUtil'
 };
 const sourcemap = !isProduction;
 const plugins = [buble()];
