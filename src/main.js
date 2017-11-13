@@ -12,7 +12,7 @@ import { consonants as calConsonants, diacriticsByName } from 'cal-code-util';
 
 /**
  * @private
- * Hebrew destination writing
+ * Hebrew source writing
  * @const
  * @type { Writing }
  */
@@ -36,7 +36,7 @@ for (let i = 0, len = hebrewCantillationDiacritics.length; i < len; i++) {
 
 /**
  * @private
- * CAL source writing
+ * CAL destination writing
  * @const
  * @type { Writing }
  */

@@ -5,8 +5,8 @@
 [![Build Status](https://travis-ci.org/peshitta/hebrew-cal.svg?branch=master)](https://travis-ci.org/peshitta/hebrew-cal)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/peshitta/hebrew-cal/blob/master/LICENSE)
 [![Dependency Status](https://david-dm.org/peshitta/hebrew-cal.svg)](https://david-dm.org/peshitta/hebrew-cal)
-[![devDependencies Status](https://david-dm.org/peshitta/hebrew-cal/dev-status.svg)](https://david-dm.org/peshitta/hebrew-cal?type=dev)
 [![Coverage Status](https://coveralls.io/repos/github/peshitta/hebrew-cal/badge.svg?branch=master)](https://coveralls.io/github/peshitta/hebrew-cal?branch=master)
+[![Gitter](https://badges.gitter.im/peshitta/peshitta.svg "Join the chat at https://gitter.im/peshitta/Lobby")](https://gitter.im/peshitta/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Convert Hebrew Ashuri to CAL code
 
@@ -25,7 +25,7 @@ Following bundles are available:
 libraries and applications
 
 The package could also be downloaded directly from:
-[https://registry.npmjs.org/hebrew-cal/-/hebrew-cal-1.0.1.tgz](https://registry.npmjs.org/hebrew-cal/-/hebrew-cal-1.0.1.tgz)
+[https://registry.npmjs.org/hebrew-cal/-/hebrew-cal-1.0.2.tgz](https://registry.npmjs.org/hebrew-cal/-/hebrew-cal-1.0.2.tgz)
 
 ## More information
 
@@ -47,7 +47,11 @@ You are welcomed to improve this implementation or provide feedback. Please
 feel free to [Fork](https://help.github.com/articles/fork-a-repo/), create a
 [Pull Request](https://help.github.com/articles/about-pull-requests/) or
 submit [Issues](https://github.com/peshitta/hebrew-cal/issues).
-Thank you!
+
+To read quick updates about Peshitta app or post questions or feedback, follow
+[@peshittap](https://www.twitter.com/peshittap)
+at [![@peshittap](http://i.imgur.com/wWzX9uB.png "@peshittap")](https://www.twitter.com/peshittap)or
+[![Gitter](https://badges.gitter.im/peshitta/peshitta.svg "Join the chat at https://gitter.im/peshitta/Lobby")](https://gitter.im/peshitta/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Development
 
